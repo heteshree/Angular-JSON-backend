@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Git_Projects\\Back_End\\RoadConstruction\\RoadConstruction\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RoadConstruction.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RoadConstruction.props",
+      "PackagePath": "build\\RoadConstruction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RoadConstruction.props",
+      "PackagePath": "buildMultiTargeting\\RoadConstruction.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RoadConstruction.props",
+      "PackagePath": "buildTransitive\\RoadConstruction.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

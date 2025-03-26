@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Nqk1UojW/nf10sazjVNJaq4TKemlUb07AHUbyesUhCY=",
+  "Source": "RoadConstruction",
+  "BasePath": "_content/RoadConstruction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoadConstruction\\wwwroot",
+      "Source": "RoadConstruction",
+      "ContentRoot": "D:\\Git_Projects\\Back_End\\RoadConstruction\\RoadConstruction\\wwwroot\\",
+      "BasePath": "_content/RoadConstruction",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Git_Projects\\Back_End\\RoadConstruction\\RoadConstruction\\wwwroot\\data.json",
+      "SourceId": "RoadConstruction",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git_Projects\\Back_End\\RoadConstruction\\RoadConstruction\\wwwroot\\",
+      "BasePath": "_content/RoadConstruction",
+      "RelativePath": "data.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data.json"
+    }
+  ]
+}
